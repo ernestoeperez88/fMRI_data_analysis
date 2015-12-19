@@ -1,0 +1,15 @@
+UC Berkeley
+CS194-16 Fall2015
+Professor John Canny
+
+Team: Neha Verma, Sayan Gul, Hammad Bashir, Ernesto Ezequiel Perez
+
+This notebook contains the image featurization implementation as well as the linear regression model. 
+
+We have included the following files in dataset.zip : 
+
+EstimatedResponses.mat - Obtained from Gallant Lab. Requires h5py to load data
+featImgs.npy - Featurized training images
+featValImgs.npy - Featurized validation images
+
+For original image files please refer to http://www.gallantlab.org/
